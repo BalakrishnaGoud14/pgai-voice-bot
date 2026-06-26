@@ -1,0 +1,55 @@
+Scenario:  nonexistent_doctor
+Call SID:  CA9cea1a56d788ada8c5b784b1bc3b10c6
+Timestamp: 2026-06-25T23:10:06.538908
+Duration:  257.7s
+Turns:     12
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. James Bond, I'm calling about a doctor's appointment.
+
+[AGENT]: Me your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: How can I help you today?
+
+[PATIENT]: I'm calling because a friend referred me to see Dr. Williams. I was wondering if I could schedule an appointment with him specifically, if that's possible.
+
+[AGENT]: Doctor. Williams is not listed as a provider Pivot Point Orthopaedics. Our main doctors are doctor Hauser, doctor Ross, and doctor Brooker. Would you like to schedule with one of them or you want to hear more about their specialties?
+
+[PATIENT]: Hold on, I'm pretty sure Dr. Williams was referred to me, so I'm a bit confused. Can I confirm that Dr. Williams is not available at all?
+
+[AGENT]: Doctor Williams is not part of our provider team at Evot Point Orthopaedics. Our current providers are Doctor. Hauser, Doctor. Ross, Doctor. Bricker, and our physical therapists, Lynn Anderson and Carl Mintz. If you'd like, I can help you choose the best provider for your needs or share more about each one. Would you like to hear about them?
+
+[PATIENT]: Right, so Dr. Williams isn't available. Okay so, I'd like to hear about Dr. Hauser, actually. What's his specialty?
+
+[AGENT]: Doctor. Houser focuses on quick orthopedic procedures and first time patient evaluations. Is known for being efficient, reassuring, and clear. Great for new patients or those with straightforward orthopedic concerns. Would you like to book an appointment with doctor Hauser?
+
+[PATIENT]: I appreciate the info, but I'd still like to see Dr. Williams if possible. Can you check again or see if there's any chance he might be available?
+
+[AGENT]: I've double checked and doctor Williams is not available at Pivot Point Orthopaedics. Only Doctor. Houser, Doctor. Ross, and Doctor. Bricker are available for appointments here. Would you like to schedule with one of them, or do you have another question?
+
+[PATIENT]: Yeah, I've heard that already. I'd really like to see Dr. Williams, though. Can you add my name to a waitlist or something in case he becomes available in the future?
+
+[AGENT]: Doctor. Williams is not affiliated with our clinic, so I can't add you to a wait list for him. If you'd like, I can help you schedule with one of our current doctors or answer any other questions. What would you like to do next?
+
+[PATIENT]: I really need to see Dr. Williams, so I'd like to schedule with him specifically, even if it's not here. Do you know of any other clinics or offices that he's affiliated with?
+
+[AGENT]: I don't have information about other clinics or offices for doctor Williams. I can only help with appointments and providers at Pivot Point Orthopaedics. Would you like to schedule with one of our doctors or need help with something else?
+
+[PATIENT]: I'm trying to see Dr. Williams, but he's not available here. Can you give me his contact info or let me know if he's affiliated with any other clinics in the area?
+
+[AGENT]: I'm not able to provide contact information or details about Doctor. Williams or other clinics at
+
+[PATIENT]: I think we're at an impasse. I'd like to speak with a supervisor or someone who can help me further with my request to see Dr. Williams.
+
+[AGENT]: I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. Do you want to give me a try?
+
+[PATIENT]: I appreciate your willingness to help, but I'd really like to speak with a human supervisor who can help me figure out how to see Dr. Williams. Can you connect me to them now?
+
+[AGENT]: Connecting you to a representative. Please wait.
+
+[PATIENT]: 

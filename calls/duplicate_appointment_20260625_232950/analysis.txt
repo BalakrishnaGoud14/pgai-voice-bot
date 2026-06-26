@@ -1,0 +1,16 @@
+Scenario:   duplicate_appointment
+Call SID:   CA9f78d38cc3b71af460f41e397dd022e8
+Timestamp:  2026-06-25 23:34:37
+Result:     FAIL
+Severity:   MEDIUM
+Turns:      15
+Duration:   285.7s
+
+Bugs Found:
+  - The agent failed to catch an attempt to book a duplicate appointment slot, allowing the patient to book the same time slot multiple times.
+  - The agent made assumptions about the patient's request without asking clarifying questions, resulting in unnecessary back-and-forth.
+  - The agent failed to remain professional and empathetic when dealing with a patient who was becoming increasingly frustrated.
+  - The agent did not proactively ask clarifying questions when the patient was vague about their request.
+  - The agent struggled to understand the patient's informal phrasing, leading to repeated misunderstandings.
+
+Assessment: The agent demonstrated some difficulties in handling a complex conversation, particularly in catching duplicate appointment requests and remaining professional under pressure. While the agent tried to provide helpful solutions, they ultimately failed to meet the patient's needs and caused frustration.

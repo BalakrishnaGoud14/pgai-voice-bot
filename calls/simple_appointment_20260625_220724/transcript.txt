@@ -1,0 +1,67 @@
+Scenario:  simple_appointment
+Call SID:  CAabbe3fdd9d0135667e1f1813b7e2fc64
+Timestamp: 2026-06-25T22:10:51.524240
+Duration:  207.4s
+Turns:     15
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me.
+
+[AGENT]: Please provide your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: Great, James. How can I help you today?
+
+[PATIENT]: I'm calling to schedule a new appointment, actually.
+
+[AGENT]: Are you a new patient looking to establish care, or have you visited our clinic before?
+
+[PATIENT]: I'm an established patient, yeah. I've been coming here for a while.
+
+[AGENT]: What type of appointment would you like to schedule? Is this follow-up, a routine office visit, or something else?
+
+[PATIENT]: It's just a routine checkup, I think. Yeah, I'm due for one, anyway.
+
+[AGENT]: A general office visit for a routine checkup, correct?
+
+[PATIENT]: That's right. Can we schedule it for next Tuesday morning, please?
+
+[AGENT]: Have a specific provider you'd like to see, or are you open to any available provider?
+
+[PATIENT]: No, I don't have a specific provider in mind. Just whenever is open next Tuesday would be fine, thanks.
+
+[AGENT]: And early next week. Do you have a preferred day or time of day for your appointment?
+
+[PATIENT]: Next Tuesday morning would work great, anytime then.
+
+[AGENT]: There are no openings next Tuesday morning. Would you like to try a different day, or are you flexible with the timing?
+
+[PATIENT]: How about Wednesday morning? Is there an opening then?
+
+[AGENT]: There are no openings on Wednesday morning either. Would you like to try a different day, or are you open to any available provider or time?
+
+[PATIENT]: Next Tuesday morning is still my preference, actually. Can we check again to see if anything opens up?
+
+[AGENT]: Openings next Tuesday morning. Would you like to try another morning next week? Or would you like to be added to a waitlist for cancellations?
+
+[PATIENT]: I'll take next Tuesday morning, thanks. What time would I be looking at?
+
+[AGENT]: Want to help, but there are no available appointments next Tuesday morning. Would you like to try a different day or time, or should I have someone from the clinic follow-up with you?
+
+[PATIENT]: Hold on, let me think. Okay, so there are openings next Tuesday, but no in the morning. What about 2 PM next Tuesday?
+
+[AGENT]: Good morning, James. Are you ready to look at other appointment options?
+
+[PATIENT]: Yeah, I'm ready. I'd like to schedule for next Tuesday, actually.
+
+[AGENT]: Morning next week, or are you open to afternoons as well?
+
+[PATIENT]: I'd prefer next Tuesday morning, but if that's not available, next Tuesday afternoon would work, yeah.
+
+[AGENT]: There are no openings next Tuesday afternoon either. Would you like to try a different day, or should I have someone from the clinic contact you to help find a time?
+
+[PATIENT]: I'd like to schedule for next Tuesday, so can we try morning again? I'm flexible, so maybe a slightly different time?

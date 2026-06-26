@@ -1,0 +1,29 @@
+Scenario:  unclear_request
+Call SID:  CA3263e6b785f1ba4c486de1db5c7de610
+Timestamp: 2026-06-25T22:51:29.412663
+Turns:     12
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with James?
+[PATIENT]: Yeah, that's me.
+[AGENT]: Please provide your date of birth.
+[PATIENT]: June 14th, 2002.
+[AGENT]: How can I help you today?
+[PATIENT]: I need some help with something. I'm having some issues with my appointment schedule.
+[AGENT]: I can help with your appointment schedule. Are you looking to book, reschedule, or cancel an appointment, or do you need details about an upcoming visit?
+[PATIENT]: Let me think. I'm trying to figure out why I got a weird letter in the mail about my appointment. Um, I think it's just a question about it, really.
+[AGENT]: No problem. I can check your upcoming appointments and help answer any questions about them. One moment while I look up your appointment details.
+[PATIENT]: Yeah, that works.
+[AGENT]: Would you like to book a new appointment now?
+[PATIENT]: No, I'm good with what I have. I just need to know what's going on with the one I got the letter about.
+[AGENT]: I don't see any upcoming appointment
+[PATIENT]: Wait. I might've forgotten the date or something. Can you check under my name, James Bond?
+[AGENT]: I've already checked your record under the name James Bond, and there are no upcoming appointments listed. If you think you might have used a different name or need to double check, I can help you book a new appointment or connect you with our support team for more help. What would you like to do?
+[PATIENT]: Yeah, my name's definitely James Bond. Um, I think I might've gotten a letter about a appointment for, uh, a few weeks ago?
+[AGENT]: Sounds like the letter might be about a past appointment. Would you like me to check your recent appointment history or connect you with our support team for more details?
+[PATIENT]: Yeah, that makes sense. Okay so, can you check my recent appointment history? Maybe that'll clear things up.
+[AGENT]: I see there's already a case open about your appointment not showing in the system. Would you like me to add a note about the letter you received, or do you want the clinic staff to follow-up based on the existing case?
+[PATIENT]: That's good. Yeah, I'd rather have the clinic staff follow up on it.
+[AGENT]: The clinic support team will review your case and follow-up with you as soon as they can.
+[PATIENT]: Yeah, thanks for looking into it.
+[AGENT]: You're welcome. If you have any other questions, just give us a call. Have a great day.
+[PATIENT]: Thanks, yeah, bye.

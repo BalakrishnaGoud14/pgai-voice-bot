@@ -1,0 +1,1 @@
+{"scenario": "duplicate_appointment", "call_sid": "CA9f78d38cc3b71af460f41e397dd022e8", "result": "FAIL", "severity": "MEDIUM", "bugs_count": 5, "turns": 15, "duration_seconds": 285.7456030845642}

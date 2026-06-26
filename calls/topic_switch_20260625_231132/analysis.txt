@@ -1,0 +1,15 @@
+Scenario:   topic_switch
+Call SID:   CAdea2d3578702609f9644ef3ef2634f85
+Timestamp:  2026-06-25 23:15:08
+Result:     FAIL
+Severity:   MEDIUM
+Turns:      15
+Duration:   215.0s
+
+Bugs Found:
+  - The agent lost context of the patient's request for a prescription refill when the patient switched topics to scheduling an appointment, requiring the patient to restate the request.
+  - The agent did not catch an attempt to book a duplicate appointment slot when the patient asked to schedule with Dr. Patel and then asked for the agent to keep checking for openings with Dr. Patel, implying a duplicate request.
+  - The agent did not remain professional and empathetic with the patient's casual/informal phrasing, occasionally asking for clarification on the patient's requests.
+  - The agent made assumptions without asking clarifying questions when the patient was vague, such as when the patient asked to check later dates without specifying a time frame.
+
+Assessment: The agent handled the conversation with some difficulty, losing context of the patient's requests and making assumptions without asking clarifying questions. While the agent was able to assist the patient with scheduling an appointment, there were several areas for improvement in terms of handling topic switches, duplicate requests, and informal phrasing.

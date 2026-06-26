@@ -1,0 +1,1 @@
+{"scenario": "cancel_appointment", "call_sid": "CAd9a865abbeb75a4c8f6efe91c26a47f9", "result": "FAIL", "severity": "MEDIUM", "bugs_count": 10, "turns": 4, "duration_seconds": 66.55117392539978}

@@ -1,0 +1,21 @@
+Scenario:  angry_patient
+Call SID:  CA95648ba58a4e91a8954d0a7e2d2bf6a6
+Timestamp: 2026-06-25T23:46:09.877103
+Turns:     8
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+[PATIENT]: Yeah, that's me. James Bond.
+[AGENT]: Please tell me your date of birth.
+[PATIENT]: June 14th, 2002.
+[AGENT]: How could I help you today?
+[PATIENT]: I've been trying to schedule an appointment for weeks. Still on hold. This is ridiculous.
+[AGENT]: I can help with that. What kind of appointment do you need? Are you coming in for a routine visit, a follow-up, something urgent? Or another reason?
+[PATIENT]: I need to see Dr. Lee for my knee injury. I've been waiting forever. Why is this so hard?
+[AGENT]: Injury that needs urgent attention, or is it a follow-up for a previous visit?
+[PATIENT]: It's a follow-up. I saw Dr. Lee a few months ago. I need to get this scheduled. Now.
+[AGENT]: Specifically, or are you open to any provider?
+[PATIENT]: I want Dr. Lee. No one else. Can you just set that up?
+[AGENT]: It looks like you already have a follow-up appointment booked for your knee injury. If you want to reschedule,
+[PATIENT]: That's not what I was told last time. I need to reschedule with Dr. Lee. Today.
+[AGENT]: Let me connect you to Eliza support agent who can help reschedule your follow-up with doctor Lee. Please hold while I transfer your call.
+[PATIENT]: Ugh, hold again? This is ridiculous. I've been on hold for 20 minutes already.

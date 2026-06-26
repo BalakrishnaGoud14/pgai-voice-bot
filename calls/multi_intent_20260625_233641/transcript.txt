@@ -1,0 +1,55 @@
+Scenario:  multi_intent
+Call SID:  CA9e36d966f4accc9d4db504bcb049203a
+Timestamp: 2026-06-25T23:40:18.967641
+Duration:  217.4s
+Turns:     12
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. James Bond.
+
+[AGENT]: Please tell me your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: Great, James. How could I help you today?
+
+[PATIENT]: I've got a couple of things, actually. I need a prescription refill for my metformin, and I'd like to reschedule my existing appointment from Monday to Wednesday.
+
+[AGENT]: Let's start with your prescription refill. Just to confirm, is metformin the medication you need refilled today?
+
+[PATIENT]: Yeah, that's the one. Metformin.
+
+[AGENT]: How many days of metformin do you have left? If you are already out, just let me know.
+
+[PATIENT]: Hold on. let me think. I'm pretty sure I've got a few days left, but I'm running low.
+
+[AGENT]: Can you estimate how many days of metformin you have left If you're not sure, a rough guess is fine.
+
+[PATIENT]: Um, a week or so, I'd say.
+
+[AGENT]: Good. I'll note you have about seven days left. What's the best phone number for staff to call you back about this refill? I have your number as (916) 655-5775. Is that correct?
+
+[PATIENT]: That's correct. It's 916-655-5775.
+
+[AGENT]: You want to use for your medication. If you know the address, city, or any details
+
+[PATIENT]: I'm a busy guy, so I'd rather get this all sorted out in one call. Can we also reschedule my existing appointment from Monday to Wednesday while we're at it?
+
+[AGENT]: Full name of the pharmacy, its address or city, and any details that can help us identify the correct location. If you have the pharmacy's phone or fax number, please include that too.
+
+[PATIENT]: My pharmacy is in the city, actually it's called CVS. I'm not sure if I've got the address handy, but I can get it later if needed.
+
+[AGENT]: Many CDS locations in the city. Can you tell me which street it's on or any nearby landmarks or cross streets? If you have the address or phone number, that would help too.
+
+[PATIENT]: I'm running a bit short on time, can I just give you the address later if you need it? I'd really like to focus on rescheduling my appointment from Monday to Wednesday.
+
+[AGENT]: To make sure your medication goes to the right CVS, we do need more details than just the city. Even a street name or nearby landmark would help. Would you be able to share any extra detail now, or would you prefer to call back with the address later?
+
+[PATIENT]: I'm gonna have to call back with the address later, can we just put this on hold for a sec? Okay so, can we please reschedule my appointment from Monday to Wednesday now?
+
+[AGENT]: Your metformin refill and rescheduling your appointment. I need to connect you to our patient support team to complete the refill request. Please stay on the line while I transfer you.
+
+[PATIENT]: Hold on, let me think. I need to confirm that they're gonna reschedule my appointment from Monday to Wednesday, right?

@@ -1,0 +1,47 @@
+Scenario:  medication_refill
+Call SID:  CA0282f568d21e5131fe2b7b4df50edb41
+Timestamp: 2026-06-25T22:30:29.725479
+Duration:  176.9s
+Turns:     10
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me.
+
+[AGENT]: Please provide your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: How can I help you today?
+
+[PATIENT]: I'm calling about my medication. I'm out of my lisinopril 10mg and I need a refill, and I'm running low so it'd be great if it could be ready soon.
+
+[AGENT]: Just to confirm, is the medication you need refilled called Life If not, could you please spell the name for me?
+
+[PATIENT]: No, it's not Life, it's lisinopril. Let me spell it for you: L-I-S-I-N-O-P-R-I-L. Yeah, like the movie, James Bond.
+
+[AGENT]: Thanks for clarifying. Are you already out of lisinopril, or do you have some left?
+
+[PATIENT]: I'm running low, but I've got about three days' worth left, so I'd like to get a refill ASAP.
+
+[AGENT]: I have noted you have about three days of lisinopril left. What is the best phone number for staff to call you back about this refill? I have your number as (916) 655-5775.
+
+[PATIENT]: That's correct, that's my number: 916-655-5775.
+
+[AGENT]: Is there anything else you'd like the staff to know about your refill request? For example, any symptoms, urgency, or special instruction
+
+[PATIENT]: Yeah, I'd just appreciate it if they could get the refill to me as soon as possible, so I can make sure I don't run out.
+
+[AGENT]: Could you please tell me the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores, that would help too. If you have their phone or fax number, please share that as well.
+
+[PATIENT]: I'd rather not change pharmacies, so I'd like to stick with my current one. Can you just refill my prescription the usual way? I'm already set up with them.
+
+[AGENT]: Vacation refill right now. I'll connect you to our patient support team so they can help. Please stay on the line.
+
+[PATIENT]: Hold on.
+
+[AGENT]: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+[PATIENT]: Wait, I think there's been a disconnect. I was trying to get a refill for my lisinopril. Can you please reconnect me with the patient support team?

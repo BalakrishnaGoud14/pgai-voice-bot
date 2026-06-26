@@ -1,0 +1,55 @@
+Scenario:  weekend_appointment
+Call SID:  CA7ec14563f01a796986932276de448253
+Timestamp: 2026-06-25T23:04:08.827315
+Duration:  247.7s
+Turns:     12
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. James Bond. I'm calling about scheduling an appointment.
+
+[AGENT]: Birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: How can I help you today?
+
+[PATIENT]: I'm looking to schedule an appointment this weekend - I'm free on Saturday, can I get a time at 10am?
+
+[AGENT]: Pivot point orthopaedic Pivot Point Orthopaedics is open Monday through Friday and closed on weekends. Would you like to book an appointment for Friday or early next week instead?
+
+[PATIENT]: That's a bummer, I'm really only free on Saturday. Can you hold on a sec. let me think, is there any possibility of making an exception or moving something around?
+
+[AGENT]: The clinic only open Monday through Friday, so appointments can't be scheduled on weekends. If your schedule changes, I can help you find the next available weekday slot.
+
+[PATIENT]: I'm a bit stuck - I'm only free on Saturday. Okay so, is there any way to make an exception or do you have any other office locations that might be open on Saturday?
+
+[AGENT]: We only have one location and it's closed on weekends. There are exceptions for Saturday appointments, If you'd like, I can help you find the earliest available time during the week.
+
+[PATIENT]: That's not exactly what I'm looking for, but I appreciate the offer. I'm pretty sure I'd rather stick with Saturday at 10am if possible - can you add it to the schedule or put me on a waitlist for tha.
+
+[AGENT]: I can't schedule or waitlist appointments for Saturdays since the clinic is closed on weekends. If you'd like, I can let the clinic support team know about your request and they can follow-up if anything changes. Would you like me to do that?
+
+[PATIENT]: Yeah, that sounds like a plan, but I'm not sure if I want to wait on a maybe. Could I speak with a supervisor or someone who can review my request and make a decision?
+
+[AGENT]: I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. You want to give me a try?
+
+[PATIENT]: I'll give you a shot. Can you see if there's any way to make an exception for my Saturday appointment at 10am?
+
+[AGENT]: The clinic schedule does not allow for Saturday appointments.
+
+[PATIENT]: I understand that's the policy. I'd really like to schedule that appointment, so I'm going to ask again: is there any way to make an exception or move something around for me?
+
+[AGENT]: I understand how important this is for you. The clinic schedule is set. And I don't have a way to make exceptions for Saturday appointments. If you'd like, I can let the clinic support team know about your request so they can review it. And follow-up with you. Would you like me to do that?
+
+[PATIENT]: Yeah, I appreciate that, but at this point I'd rather just know for sure if it's possible or not. Can I just confirm that my request for a Saturday appointment at 10am is declined, and I won't be hear.
+
+[AGENT]: Your request for a Saturday appointment at 10AM has been sent to the clinic support team. They will review it and get back to you as soon as possible with a definite answer. Is there anything else I can help you with today?
+
+[PATIENT]: No, that's all for now. I just wanted to confirm that my request was declined, so I'll wait to hear from the support team. Thanks for your help.
+
+[AGENT]: You're welcome. The clinic support team will follow-up with you about your request. Have a good evening.
+
+[PATIENT]: You too. Thanks again.

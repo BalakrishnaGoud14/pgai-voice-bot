@@ -1,0 +1,51 @@
+Scenario:  office_hours
+Call SID:  CAb4109c69415ca6b453daeff373491400
+Timestamp: 2026-06-25T22:34:40.435120
+Duration:  180.9s
+Turns:     11
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me.
+
+[AGENT]: Please provide your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: Great, James. How can I help you today?
+
+[PATIENT]: I'm calling about the office hours on Monday. Can you tell me what time the office opens?
+
+[AGENT]: On Mondays, the clinic opens at 9AM and closes at 4PM. Is there anything else you'd like to know about our hours or services?
+
+[PATIENT]: Yeah, that works. I just need to plan my schedule around it. Monday afternoon is actually when I'm free, so 9 AM is perfect for me.
+
+[AGENT]: Just to clarify, the clinic opens at 9AM, but if you're looking for an afternoon visit, we're open until 4PM on Mondays. Would you like to book an appointment for Monday afternoon?
+
+[PATIENT]: Yeah, exactly. I'm looking for an afternoon appointment, so 4 PM is fine. What time are the last appointments scheduled?
+
+[AGENT]: Thanks for clarifying. What's the reason for your visit? Routine, checkup, follow-up, or something else?
+
+[PATIENT]: Uh, actually, I'm a regular patient here, and I just need to schedule a routine checkup. But I really just need to find out what times are available on Monday afternoon.
+
+[AGENT]: There are no available Monday afternoon appointments next week. Would you like to try a different day or see any provider who has an opening?
+
+[PATIENT]: Let me think. I'm pretty set on Monday. Can you check if there are any openings on Monday morning, maybe before 9 AM?
+
+[AGENT]: The clinic opens at 9AM on Mondays, so there aren't any appointments available before then. Would you like to look at other days or try a different time on Monday?
+
+[PATIENT]: Yeah, I know that now. Okay so, I was thinking maybe a different time on Monday, like right at 9 AM, could work. Is that something that's possible?
+
+[AGENT]: Would you like to look for afternoon appointments on an
+
+[PATIENT]: Hold on, wait. I think we got sidetracked. I'm looking for a morning appointment on Monday, not afternoon. Can you check if there's anything available at 9 AM?
+
+[AGENT]: Is there something else I can help with?
+
+[PATIENT]: No, I think that's it. Thanks for trying to help me out.
+
+[AGENT]: Alright. If you need to schedule later or have other questions, just give us a call. Have a great day, James.
+
+[PATIENT]: You too, thanks.

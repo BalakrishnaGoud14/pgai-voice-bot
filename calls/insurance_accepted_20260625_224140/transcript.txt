@@ -1,0 +1,67 @@
+Scenario:  insurance_accepted
+Call SID:  CA772011434b41ccaf93342d444c7dffcd
+Timestamp: 2026-06-25T22:47:38.061233
+Duration:  357.5s
+Turns:     15
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics, part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. I'm trying to confirm if you guys accept Blue Cross Blue Shield PPO.
+
+[AGENT]: I need your date of birth to continue. Could you please provide your date of birth?
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: How can I help you today?
+
+[PATIENT]: I'd like to schedule an appointment, but I need to confirm that you accept my insurance, Blue Cross Blue Shield PPO. Can you tell me if that's covered?
+
+[AGENT]: Let me check if Blue Cross Blue Shield PPO is accepted. Can you tell me the state where your plan was issued?
+
+[PATIENT]: Let me think. I'm pretty sure it's a national plan, but I think it was issued in. Illinois. Yeah, I think it was Illinois.
+
+[AGENT]: I'll need your member ID number from your insurance card to check if your Blue Cross Blue Shield PPO plan from Illinois is accepted. Can you provide that number?
+
+[PATIENT]: I'm still on the phone, can we hold on that for a sec? I'm trying to get that number, but I'm gonna need to look it up.
+
+[AGENT]: No problem. Take your time. Let me know when you have your member ID number ready.
+
+[PATIENT]: Thanks. Um, let me just check my card real quick. Okay, it's. 1234567890.
+
+[AGENT]: Thanks. Is there a group number listed on your card, or should I skip that?
+
+[PATIENT]: There's a group number, it's 456.
+
+[AGENT]: Is there a claims mailing address or PO box listed on the back of your card, or should I skip that?
+
+[PATIENT]: No, I don't think so. I mean, I'd have to go dig it out, and I'm pretty sure it's not on there.
+
+[AGENT]: No worries. Is there a phone number printed on your insurance card, or should I skip that?
+
+[PATIENT]: There's my phone number, it's 916-655-5775.
+
+[AGENT]: Thanks for sharing your phone number.
+
+[PATIENT]: So, can I confirm now that you accept my Blue Cross Blue Shield PPO plan from Illinois?
+
+[AGENT]: There are several Blue Cross Blue Shield plans from Illinois. Including PPO and HMO options, to confirm coverage I need the exact plan name as showed under card. You tell me if it says PPO, HMO, Medicare Advantage, or something else?
+
+[PATIENT]: Let me check. It says. Blue Cross Blue Shield PPO. Yeah, that's exactly what it says.
+
+[AGENT]: There are a few PPO options listed. Is there a claims address or PO box anywhere on your card, even in small print? That would help narrow it down. If not, I can read the plan names for you to choose from.
+
+[PATIENT]: Wait, actually, I found it. There's a claims address, it's. 123 Main St, Springfield, IL 62701.
+
+[AGENT]: I still see several Blue Cross Blue Shield plans, but none match the claims address you gave. Could you double check if the claims address matches any of these? PO Box 4458 Chicago, PO Box 438 Park Ridge, or PO Box 7970 Westchester. If not, I can read the plan names for you to pick the closest match.
+
+[PATIENT]: Let me check. Hold on. Okay, I think I see the issue. I made a mistake on the claims address. I'm not sure what it says. Can you just read me the plan names so I can try to match it to my card?
+
+[AGENT]: Here are some of the plan names for Blue Cross Blue Shield for Illinois. UniCare BCBS O Access PPO BCBS, TXPPO PBA Medicare Supplement, RPA, BCVS, ILHMO. Central States Health and Welfare Fund, Midwest Operating Engineers Medicare Supplement, Gencare BCBS, IL Blue Cross Medicare Advantage Medicare replacement, Advantage HMO, Oak Saint Health Physicians, BCBS
+
+[PATIENT]: Yeah, that's a long list. Okay, so I'm looking for the PPO plan. I don't see it in that list, but can you confirm that you guys don't accept Blue Cross Blue Shield PPO plans from Illinois?
+
+[AGENT]: I see a plan called UniCare BCVS O Access PPO and another called BCVS TX PPO. But I do not see a specific Blue Cross Blue Shield PPO plan from Illinois listed. It looks like your exact plan may not be on the accepted list. If you want, I can create a case for our clinic support team to double check your insurance and get back to you. Would you like me to do that?
+
+[PATIENT]: Yeah, that sounds like a good idea. I mean, I'd rather not book an appointment if my insurance isn't gonna cover it. Yeah, please go ahead and create a case for the clinic support team.

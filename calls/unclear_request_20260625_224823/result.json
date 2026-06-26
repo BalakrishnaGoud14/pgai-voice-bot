@@ -1,0 +1,9 @@
+{
+  "scenario": "unclear_request",
+  "call_sid": "CA3263e6b785f1ba4c486de1db5c7de610",
+  "result": "PASS",
+  "severity": "NONE",
+  "bugs_count": 0,
+  "turns": 12,
+  "duration_seconds": 195.4
+}

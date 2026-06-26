@@ -1,0 +1,12 @@
+Scenario:   angry_patient
+Call SID:   CA95648ba58a4e91a8954d0a7e2d2bf6a6
+Timestamp:  2026-06-25 23:49:24
+Result:     PASS
+Severity:   NONE
+Turns:      8
+Duration:   191.2s
+
+Bugs Found:
+  - None
+
+Assessment: The agent remained professional and empathetic throughout the conversation, effectively handling the patient's frustration and successfully resolving the request to reschedule an appointment with Dr. Lee. The agent asked clarifying questions and provided accurate information, demonstrating good understanding of the patient's needs. The conversation flowed smoothly, with the agent adapting to the patient's informal phrasing and mid-conversation topic switches.

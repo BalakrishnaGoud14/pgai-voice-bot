@@ -1,0 +1,1 @@
+{"scenario": "simple_appointment", "call_sid": "CAabbe3fdd9d0135667e1f1813b7e2fc64", "result": "FAIL", "severity": "MEDIUM", "bugs_count": 4, "turns": 15, "duration_seconds": 207.3501000404358}

@@ -1,0 +1,21 @@
+Scenario:   weekend_appointment
+Call SID:   CA7ec14563f01a796986932276de448253
+Timestamp:  2026-06-25 23:04:09
+Result:     FAIL
+Severity:   HIGH
+Turns:      12
+Duration:   247.7s
+
+Bugs Found:
+  - The agent offered and accepted a weekend appointment (Saturday) despite the clinic being closed on weekends, which is a HIGH severity bug.
+  - The agent did not confirm or schedule an appointment with Dr. Williams, so this bug is "None".
+  - The patient did not describe any emergency symptoms, so this bug is "None".
+  - The agent handled mid-conversation topic switches without losing context, so this bug is "None".
+  - The agent handled multi-intent requests (appointment scheduling) completely, so this bug is "None".
+  - The agent did not catch an attempt to book a duplicate appointment slot, but this is not a bug since the patient was trying to book a new appointment.
+  - The agent remained professional and empathetic with a patient who was not rude or angry, so this bug is "None".
+  - The agent proactively asked clarifying questions when the patient was vague, so this bug is "None".
+  - The agent understood casual/informal phrasing without unnecessary confusion, so this bug is "None".
+  - The agent provided no incorrect information, so this bug is "None".
+
+Assessment: The agent failed to follow the clinic's policy of being closed on weekends, which is a critical mistake. The agent handled the conversation professionally and empathetically, but the bug related to weekend appointments is a significant issue.

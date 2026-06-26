@@ -1,0 +1,8 @@
+.env
+google_credentials.json
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+calls_bkp/

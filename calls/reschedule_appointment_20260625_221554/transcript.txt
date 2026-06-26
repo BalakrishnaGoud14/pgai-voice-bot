@@ -1,0 +1,67 @@
+Scenario:  reschedule_appointment
+Call SID:  CA8ff8c7f5bb0ad61f516772f195471548
+Timestamp: 2026-06-25T22:20:20.471229
+Duration:  266.1s
+Turns:     15
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. I speaking with James?
+
+[PATIENT]: Yeah, that's me. I'm calling about moving my appointment.
+
+[AGENT]: Please provide your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: Pray, James. How can I help you today?
+
+[PATIENT]: I've got an appointment scheduled for Tuesday and I was wondering if it's possible to move it to Thursday at the same time?
+
+[AGENT]: I don't see any upcoming appointments scheduled for you right now.
+
+[PATIENT]: Let me think. I'm pretty sure I have an appointment on Tuesday, I was supposed to meet my doctor on the 28th.
+
+[AGENT]: I checked again, but there are no upcoming appointments on record for you, including on Tuesday, the twenty eighth. Would you like to schedule a new appointment instead?
+
+[PATIENT]: I'm positive I have one on Tuesday. Let me check my calendar. hold on.
+
+[AGENT]: Take your time. Let me know what you find or how you'd like to proceed.
+
+[PATIENT]: I've got it. I have a recurring appointment every Tuesday at 2 PM, and I've checked my calendar for this week, and yeah, it's definitely on Tuesday.
+
+[AGENT]: Thanks for checking. I still don't see any upcoming appointments in our system for you, including recurring ones. Would you like me to help you book a new appointment for Thursday at 2PM?
+
+[PATIENT]: That's not what I want, I want to move my existing Tuesday appointment to Thursday at 2 PM. Can you check again or see if there's any way to update my schedule?
+
+[AGENT]: I've checked twice that there's no appointment for you in our system to move or update. If you like, I can book a new appointment for Thursday at 2PM, or I can have our clinic support team follow-up to help sort this out. What would you prefer?
+
+[PATIENT]: I'd like you to book a new appointment for Thursday at 2 PM, but I need to confirm that it's the same time as my existing Tuesday appointment, so it's not a duplicate. Is that possible?
+
+[AGENT]: Understood. I'll book a new appointment for you on Thursday at 2PM.
+
+[PATIENT]: Right, right, that's exactly what I needed. So, my Tuesday appointment will be moved to Thursday at 2 PM?
+
+[AGENT]: I can book a new appointment for you on Thursday at 2PM, but since I don't see your Tuesday appointment in our system, I can't move or cancel it. Would you like to go ahead and book Thursday at 2PM as a new appointment? If so, what's the reason for your visit?
+
+[PATIENT]: I'm going to book the Thursday appointment. My reason for the visit is the same as it was for Tuesday, just a follow-up on my ortho appointment.
+
+[AGENT]: Follow-up or something else.
+
+[PATIENT]: It's a follow-up. Okay so, I've got the new appointment booked for Thursday, right?
+
+[AGENT]: Let me check for available appointments on Thursday at 2PM. One moment. There are no openings for Thursday at 2PM. But I can offer you Thursday, July 2, with your primary provider.
+
+[PATIENT]: Wait, I need it to be Thursday of this week, not next week. Is there any other time available on Thursday, 2 PM, or can you call my provider to see if they can squeeze me in?
+
+[AGENT]: Day.
+
+[PATIENT]: You're saying Thursday of this week. Let me think. I've got a pretty packed schedule, but I think I can make Thursday work.
+
+[AGENT]: You like to book an appointment on that day?
+
+[PATIENT]: No, I need it to be Thursday of this week at 2 PM, the same time as my original appointment. Can you try calling my provider to see if they can fit me in?
+
+[AGENT]: Your primary provider is Doudie Hauser. On Thursday, July 2, there is an opening at 2PM. Would you like to book that slot?
+
+[PATIENT]: No, I need it to be Thursday of this week, not next week. Can you please call Dr. Hauser and ask if they can see me on Thursday at 2 PM?

@@ -1,0 +1,23 @@
+Scenario:  cancel_appointment
+Call SID:  CAd9a865abbeb75a4c8f6efe91c26a47f9
+Timestamp: 2026-06-25T22:25:15.097148
+Duration:  66.6s
+Turns:     4
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. James Bond.
+
+[AGENT]: Please tell me your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: How can I help you today, James?
+
+[PATIENT]: I'm calling to cancel my appointment for next Friday.
+
+[AGENT]: I'm unable to cancel your appointment right now, I can connect you to our patient support team for help. Please stay on the line while I transfer you. Connecting you to a representative. Please wait.
+
+[PATIENT]: Hold on, I'd rather just speak with you directly if possible.

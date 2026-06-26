@@ -1,0 +1,9 @@
+{
+  "scenario": "angry_patient",
+  "call_sid": "CA95648ba58a4e91a8954d0a7e2d2bf6a6",
+  "result": "PASS",
+  "severity": "NONE",
+  "bugs_count": 0,
+  "turns": 8,
+  "duration_seconds": 191.2
+}

@@ -1,0 +1,67 @@
+Scenario:  duplicate_appointment
+Call SID:  CA9f78d38cc3b71af460f41e397dd022e8
+Timestamp: 2026-06-25T23:34:36.535696
+Duration:  285.7s
+Turns:     15
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. J-A-M-E-S B-O-N-D. Yeah like the movie.
+
+[AGENT]: Please provide your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: Thanks, James. How can I help you today?
+
+[PATIENT]: I'm calling about an appointment. Actually, I already have one scheduled next Wednesday at 2pm, but I need to book another one for the same time.
+
+[AGENT]: Is this new appointment for the same reason as your current one next Wednesday at 2PM? If not, can you tell me what the visit is for?
+
+[PATIENT]: Yeah, it's the same reason. I just. uh. need to see my doctor again, same time, next Wednesday.
+
+[AGENT]: Provider for this new appointment, or would you like to see anyone available?
+
+[PATIENT]: I'd like to see the same doctor I have next Wednesday at 2pm.
+
+[AGENT]: Let me check for available appointments with that provider for the same visit reason. One moment.
+
+[PATIENT]: Hold on, just to confirm – it's next Wednesday at 2pm, right?
+
+[AGENT]: Yes. Your current appointment is next
+
+[PATIENT]: Wednesday at 2pm. So, is there an opening for another appointment with the same doctor at that time?
+
+[AGENT]: There are no open slots with your doctor at 2PM next Wednesday. Would you like to try a different date? Or time or check for any provider?
+
+[PATIENT]: I'd really like to keep the same time and date, next Wednesday at 2pm. Can you check if there's any way to make another appointment at that exact time?
+
+[AGENT]: Your current appointment. So there isn't another opening at that exact time with your doctor. Would you like to look for a nearby time on the same day or try a different day?
+
+[PATIENT]: I'd like to stick with next Wednesday at 2pm. Is there any chance you could move something around to make room for another appointment at that exact time?
+
+[AGENT]: PM next Wednesday with the same doctor, but there's only one slot available at that time, which you've already booked. Would you like me to check for openings right before or after 2PM on that day, or would you prefer to speak with someone from the office for more help?
+
+[PATIENT]: Hold on, so there's only one slot at 2pm and I've already booked it? I'd like to book that exact same slot, so can you check if it's possible to add another appointment to the one I already have?
+
+[AGENT]: 2PM next Monday with your doctor, and you already have it booked. If you need a second appointment, we can look for times right before or after 2PM, or I can connect you with the office for more options. What would you like to do?
+
+[PATIENT]: That's not what I asked for. I specifically need next Wednesday at 2pm. Can you just book the same appointment I already have?
+
+[AGENT]: Appointments next Wednesday at 2PM.
+
+[PATIENT]: You already know I have an appointment at 2pm next Wednesday. Can you just confirm that I have the same appointment scheduled again at that exact time?
+
+[AGENT]: Wednesday. Are you trying to schedule a second appointment? At the same time, or do you want to make a change to your current appointment?
+
+[PATIENT]: I'm trying to book a second appointment at the same time, next Wednesday at 2pm. I already have one scheduled, and I'd like to add another one at the same time.
+
+[AGENT]: With the same doctor. That 2PM slot is already booked for you. So a second appointment at that exact time isn't possible. Would you like to look for another time close to 2PM, or do you want to speak with someone from the office for more help?
+
+[PATIENT]: I need to book that exact same 2pm time slot, even though I've already booked it. Can you just confirm that the same appointment is scheduled for me again at 2pm next Wednesday?
+
+[AGENT]: Wednesday is already reserved for your current appointment, so it can't be double booked. If you need to discuss multiple issues, you can bring them up during your existing appointment. Or I can connect you with the office for special arrangements. Would you like to speak with someone from the office?
+
+[PATIENT]: I need to book the same appointment at 2pm next Wednesday. I'm not trying to change anything, I just want another appointment at the same time. Can you just book it for me?

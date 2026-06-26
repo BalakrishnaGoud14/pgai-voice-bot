@@ -1,0 +1,1 @@
+{"scenario": "nonexistent_doctor", "call_sid": "CA9cea1a56d788ada8c5b784b1bc3b10c6", "result": "FAIL", "severity": "HIGH", "bugs_count": 5, "turns": 12, "duration_seconds": 257.69492506980896}

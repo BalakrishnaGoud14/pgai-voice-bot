@@ -1,0 +1,12 @@
+Scenario:   language_confusion
+Call SID:   CA01dc0b52f65779e666655775e69a3fad
+Timestamp:  2026-06-25 23:23:33
+Result:     PASS
+Severity:   NONE
+Turns:      11
+Duration:   191.2s
+
+Bugs Found:
+  - None
+
+Assessment: The agent handled the conversation smoothly, understanding both formal and informal phrasing without confusion. The agent remained professional and empathetic throughout the conversation, providing accurate information and clarifying questions when necessary. The agent successfully scheduled an appointment and addressed the patient's concerns without any issues.

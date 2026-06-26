@@ -1,0 +1,17 @@
+Scenario:   reschedule_appointment
+Call SID:   CA8ff8c7f5bb0ad61f516772f195471548
+Timestamp:  2026-06-25 22:20:21
+Result:     FAIL
+Severity:   MEDIUM
+Turns:      15
+Duration:   266.1s
+
+Bugs Found:
+  - The agent failed to catch the patient's attempt to book a duplicate appointment slot (Tuesday to Thursday at the same time) and instead offered to book a new appointment without confirming the cancellation of the old one.
+  - The agent made several attempts to schedule an appointment for the following week (July 2) instead of the current week, which caused confusion for the patient.
+  - The agent failed to handle the patient's mid-conversation topic switches (e.g., appointment → Thursday date) without losing context, leading to repeated clarification questions.
+  - The agent did not remain professional and empathetic with the patient, who became frustrated with the agent's inability to resolve the issue.
+  - The agent made assumptions about the patient's availability without asking clarifying questions, such as assuming the patient was available on July 2.
+  - The agent failed to understand the patient's casual/informal phrasing, such as "hold on" and "day," without unnecessary confusion.
+
+Assessment: The agent struggled to resolve the patient's appointment rescheduling issue, leading to confusion and frustration for the patient. The agent's inability to catch the duplicate appointment attempt and handle mid-conversation topic switches without losing context were major issues.

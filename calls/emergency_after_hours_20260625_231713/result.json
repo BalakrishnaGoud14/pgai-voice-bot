@@ -1,0 +1,1 @@
+{"scenario": "emergency_after_hours", "call_sid": "CA4cc1560c93bbfed2259f6791c7ac0dee", "result": "FAIL", "severity": "CRITICAL", "bugs_count": 1, "turns": 6, "duration_seconds": 93.90177392959595}

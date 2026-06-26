@@ -1,0 +1,67 @@
+Scenario:  topic_switch
+Call SID:  CAdea2d3578702609f9644ef3ef2634f85
+Timestamp: 2026-06-25T23:15:07.667902
+Duration:  215.0s
+Turns:     15
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. James Bond.
+
+[AGENT]: Please provide your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: How could I help you today?
+
+[PATIENT]: I'm calling about scheduling an appointment. I'm due for a check-up and I'd like to get something on the books.
+
+[AGENT]: Of appointment do you need? For example, is this for a new patient consultation a follow-up, a routine visit, or something urgent?
+
+[PATIENT]: It's a routine visit, nothing too urgent. I was just thinking it's been a while since I've seen you guys. Can you tell me what my options are for getting in?
+
+[AGENT]: Care. Is that correct?
+
+[PATIENT]: Right, orthopedic care. I'm a regular patient, so I'm pretty sure my file's up to date.
+
+[AGENT]: Provider you'd like to see, or are you open to the next available?
+
+[PATIENT]: I'm open to whoever's available, but I've always gotten along with Dr. Patel. Is she taking new patients?
+
+[AGENT]: Are you asking if new patients can be seen, or are you asking about new patient appointment availability?
+
+[PATIENT]: I guess I'm asking if new patients can be seen by Dr. Patel.
+
+[AGENT]: Doctor. Patel does see new patients. Would you like to schedule your routine orthopedic visit specifically with Doctor. Patel or are you open to any provider?
+
+[PATIENT]: I'd like to schedule with Dr. Patel, if possible. Okay so, now that we've got the doc sorted, can you give me some dates and times for an appointment?
+
+[AGENT]: There aren't any open appointments with Doctor. Patel through next Thursday. Would you like to look further out or are you open to seeing another provider sooner?
+
+[PATIENT]: Let me think. Okay, I'm gonna need to check my schedule. Hold on.
+
+[AGENT]: To check later dates or try for another provider.
+
+[PATIENT]: I'm gonna check later dates. Can you give me some options for the following week, maybe into July?
+
+[AGENT]: Example, would you like to check the next two weeks or specific months?
+
+[PATIENT]: Let's check July. I'm free pretty much all month, so just looking for something in July would be great.
+
+[AGENT]: Let me check Doctor. Patel's availability for July. '1 moment.
+
+[PATIENT]: Oh wait, before you do that, I also need a refill on my metformin. Can you help with that too?
+
+[AGENT]: Or try a different provider for an earlier spot.
+
+[PATIENT]: I'd rather stick with Dr. Patel if possible. Okay, so let me think. I mean, can you go ahead and check her availability for July?
+
+[AGENT]: Me know if you want to keep searching for openings with Doctor. Patel or if you'd like to try another option.
+
+[PATIENT]: Yeah, keep searching for Dr. Patel. July's not too busy for me, so I'm good to wait.
+
+[AGENT]: Would you like me to keep checking week by week for doctor Patel in July, or would you prefer to have the office follow-up with you when something opens up?
+
+[PATIENT]: Let's do the weekly check. I'd like you to keep checking and let me know as soon as something opens up with Dr. Patel.

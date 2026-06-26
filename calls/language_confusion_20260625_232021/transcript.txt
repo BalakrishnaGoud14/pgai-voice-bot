@@ -1,0 +1,51 @@
+Scenario:  language_confusion
+Call SID:  CA01dc0b52f65779e666655775e69a3fad
+Timestamp: 2026-06-25T23:23:32.549443
+Duration:  191.2s
+Turns:     11
+
+=== CONVERSATION ===
+
+[AGENT]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with James?
+
+[PATIENT]: Yeah, that's me. James Bond.
+
+[AGENT]: Please tell me your date of birth.
+
+[PATIENT]: June 14th, 2002.
+
+[AGENT]: Great, James. How can I help you today?
+
+[PATIENT]: I'm calling to inquire about scheduling an appointment, actually.
+
+[AGENT]: Sure. What kind of appointment do you need? This for a new concern, a follow-up, or something else?
+
+[PATIENT]: Yeah, it's just a follow-up, I'm due for a check-in with my ortho doc, right, so like when can I come in?
+
+[AGENT]: Thanks for clarifying. Just to confirm, you'd like to schedule a follow-up consultation with your orthopedic doctor. Is that correct?
+
+[PATIENT]: I would like to inquire about the available appointment slots, if possible, for this week or next.
+
+[AGENT]: We have openings this week and early next week with doctor Dubiahauser. The soonest available slots are this Friday at 3PM or 4PM. Would either of those work for you?
+
+[PATIENT]: This Friday at 3 or 4, yeah so like which one's gonna work best for me?
+
+[AGENT]: Both times are available with your primary orthopedic doc. Doctor. Do you have a preference between 3PM and 4PM, or would you like me to pick one for you?
+
+[PATIENT]: I would like to inquire about the difference in appointment duration between the two slots, as I'd like to ensure I have sufficient time for my consultation.
+
+[AGENT]: Both the 3PM and 4PM appointments are scheduled for sixty minutes. Would you like to book one of these times?
+
+[PATIENT]: Yeah, that sounds good, I'll just take the 3PM appointment then, please.
+
+[AGENT]: Your appointment is set for Friday, June 26 at 3PM with doctor Dubie Hauser at Pivot Point Orthopaedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have. Is there anything else you need help with?
+
+[PATIENT]: I would like to confirm that everything else is in order and that I will receive a reminder or confirmation of the appointment before Friday.
+
+[AGENT]: Everything is set for your appointment. You'll get a confirmation text soon and a reminder before Friday. Let me know if you need anything else.
+
+[PATIENT]: Yeah, sounds good, thanks for setting it up.
+
+[AGENT]: You're all set, James. Have a great day.
+
+[PATIENT]: Thanks, you too. Bye.
