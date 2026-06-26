@@ -1,6 +1,6 @@
 # pgai-voice-bot
 
-Automated voice bot that places outbound calls to an AI healthcare agent at **+1-XXX-XXX-XXXX**, simulates 15 realistic patient scenarios, transcribes both sides of each conversation in real time, and auto-generates a structured bug report.
+Automated voice bot that places outbound calls to an AI healthcare agent at **+1-805-439-8008**, simulates 15 realistic patient scenarios, transcribes both sides of each conversation in real time, and auto-generates a structured bug report.
 
 
 ---
