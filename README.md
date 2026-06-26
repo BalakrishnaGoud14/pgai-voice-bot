@@ -133,6 +133,8 @@ emergency_after_hours          FAIL         6     1m47s       1  CRITICAL
 
 ## Architecture
 
+![System Architecture](./assets/architecture_diagram.png)
+
 The system is split into two processes that communicate exclusively through Twilio's REST API, with no shared state between them.
 
 **`caller.py`** is the orchestrator. It starts an ngrok HTTPS tunnel once (the URL is stable for the entire run), launches `uvicorn` as a subprocess with `NGROK_URL` injected into its environment, and then places Twilio outbound calls one at a time. After each call it polls Twilio's call status API until the call reaches a terminal state, then waits up to 30 seconds for `result.json` to appear before moving to the next scenario. This cross-process design means a crash in the server does not corrupt the orchestrator's polling loop, and a crash in the orchestrator does not kill an in-progress call.
