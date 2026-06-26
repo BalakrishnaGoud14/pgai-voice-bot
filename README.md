@@ -1,6 +1,6 @@
 # pgai-voice-bot
 
-Automated voice bot that places outbound calls to an AI healthcare agent at **+1-805-439-8008**, simulates 15 realistic patient scenarios, transcribes both sides of each conversation in real time, and auto-generates a structured bug report.
+Automated voice bot that places outbound calls to an AI healthcare agent at **+1-XXX-XXX-XXXX**, simulates 15 realistic patient scenarios, transcribes both sides of each conversation in real time, and auto-generates a structured bug report.
 
 Built for the AI Engineering Challenge.
 
@@ -156,7 +156,7 @@ Both use `GROQ_API_KEY` via the OpenAI-compatible endpoint `https://api.groq.com
 ## Troubleshooting
 
 **"Permission denied to call that number"**
-→ Add `+1-805-439-8008` to Twilio Console under *Phone Numbers → Verified Caller IDs*, or upgrade from trial to paid.
+→ Add `+1-XXX-XXX-XXXX` to Twilio Console under *Phone Numbers → Verified Caller IDs*, or upgrade from trial to paid.
 
 **"ngrok tunnel not connecting"**
 → Run `ngrok config add-authtoken <your-token>` first. Free ngrok sessions last ~2 hours — complete your run in one sitting.
