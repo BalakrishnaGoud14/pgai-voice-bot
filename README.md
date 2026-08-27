@@ -1,6 +1,6 @@
 # AI Voice Bot - Healthcare Voice Agent Testing Automation
 
-Automated voice bot that places outbound calls to an AI healthcare agent at **+1-805-439-8008**, simulates 15 realistic patient scenarios, transcribes both sides of each conversation in real time, and auto-generates a structured bug report.
+Automated voice bot that places outbound calls to an AI healthcare agent at **+1-XXX-XXX-XXXX**, simulates 15 realistic patient scenarios, transcribes both sides of each conversation in real time, and auto-generates a structured bug report.
 
 
 ---
@@ -16,7 +16,7 @@ Automated voice bot that places outbound calls to an AI healthcare agent at **+1
 | ngrok account | Free at [ngrok.com](https://ngrok.com) |
 
 > **Twilio trial accounts:** Trial accounts can only call **verified** phone numbers.
-> Go to **Twilio Console → Phone Numbers → Verified Caller IDs** and add `+1-805-439-8008`
+> Go to **Twilio Console → Phone Numbers → Verified Caller IDs** and add `+1-XXX-XXX-XXXX`
 > before running. Alternatively, upgrade to a paid account — your free credit still applies.
 
 > **Groq free tier limit:** 500,000 tokens/day. Running all 15 scenarios requires ~2M tokens.
